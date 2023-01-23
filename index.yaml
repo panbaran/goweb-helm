@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  goweb-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-01-23T14:58:51.773217119+01:00"
+    description: A Helm chart for Kubernetes
+    digest: f3926982a502a61fac36b8465319cb98ecb771e8a9242a803374e11d5ee55e22
+    name: goweb-helm
+    type: application
+    urls:
+    - https://panbaran.github.io/goweb-helm/goweb-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-01-23T14:58:51.772698475+01:00"
